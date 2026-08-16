@@ -1,16 +1,14 @@
-## Hi there 👋
+### Infrastructure & Platform Engineer
 
-<!--
-**Mortadha1996/Mortadha1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I run production infrastructure and build the automation that keeps it healthy.
 
-Here are some ideas to get you started:
+Currently at Sagemcom: 50+ VM VMware estate, a zero-downtime Docker-to-Kubernetes 
+migration, 100+ systems under Ansible, and an in-house AIOps platform that predicts 
+infrastructure failures before they cause incidents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Working with** — Kubernetes · Ansible · Terraform · AWS · OpenStack · Prometheus · Grafana · Python
+
+**Certified** — RHCE · RHCSA · Red Hat Ansible (×2) · Red Hat Cloud-native Developer · AWS Solutions Architect · CCNA
+
+📄 [Manage Windows Server machines with Ansible](https://medium.com/p/manage-windows-server-machines-with-ansible-9f5abad14f73) — Medium  
+🔗 [LinkedIn](https://www.linkedin.com/in/mortadha-riahi/)
